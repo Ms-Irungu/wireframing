@@ -114,10 +114,4 @@ The revised design:
 
 Wireframing allowed the team to discover and fix issues early, resulting in a user-friendly, effective product.
 
----
-
-## 📁 Repository Details
-
-**Repository Name:** `wireframing`  
-**File:** `README.md`
 
